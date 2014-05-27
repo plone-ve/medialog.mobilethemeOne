@@ -2,4 +2,5 @@
 <theme>
     <name>medialog.mobilethemeOne</name>
     <enabled>false</enabled>
+    <disabled>true</disabled>
 </theme>
