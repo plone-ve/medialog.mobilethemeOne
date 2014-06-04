@@ -38,6 +38,5 @@
        
 	<!--content, skipped left and right columns-->
     <replace css:content="#content" css:theme="#portal-column-content" />
-        
 
 </rules>

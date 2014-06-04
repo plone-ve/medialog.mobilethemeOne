@@ -98,7 +98,7 @@ body ul#portal-globalnav {
 
 ul.LSTable   {
    font-size:120%;
-    margn-bottom: 5px;
+    margin-bottom: 5px;
 }
 /* Footer */
 
@@ -210,7 +210,7 @@ margin-top: 10px;
  
 }
 
-#content-core div.tileItem.visualIEFloatFix.minisize {
+#content-core div.tileItem.visualIEFloatFix {
 	background: #faf9f8;
 }
  
