@@ -1,3 +1,5 @@
+/* @override http://localhost:8080/as/news/++theme++medialog.mobilethemeOne/assets/theme.css */
+
 /* Theme-specific styling
  */
 
@@ -20,18 +22,47 @@ body.mobileNaviLoaded {
 }
 
 body.mobileNaviLoaded #content {
+	clear: both;
 	border-top: 1px solid #333;
 	padding-top: 10px;
-	margin-top: 0;
+	margin-top: 1px;
 }
 	
 body.mobileNaviLoaded a#portal-logo {
-    width: 100%; 
+    width: 74%;
+    display: block; 
     text-align: left;
     margin:  2px;
     padding:  2px;
- 
+ 	min-height: 42px;
 }
+
+/* @group slider */
+
+#slider-wrapper {
+	max-width: 100%;
+	overflow-x: hidden;;	
+}
+
+li.slide,
+#slider {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+#slider li {
+	max-width: 100%;
+	clear: both;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+li.slide img,
+#slider img {
+	height: auto;
+	width: 100% !important ;
+}
+/* @end */
 
 
 #portal-colophon p{
@@ -43,6 +74,7 @@ a#portal-logo img {
 	margin: auto;
 	float:  none;
 	width: auto;
+	height:  auto;
 }
  
    #portal-personaltools dd.actionMenuContent {
