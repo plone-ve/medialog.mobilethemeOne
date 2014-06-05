@@ -201,13 +201,13 @@ nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
 	
 }
 
-image-right {
+.image-right {
 	float: right;
 	margin-left:  10px;
 	margin-bottom: 10px;
 }
 
-image-left {
+.image-left {
 	float: left;
 	margin-right:  10px;
 	margin-bottom: 10px;
