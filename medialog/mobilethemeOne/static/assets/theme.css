@@ -179,6 +179,13 @@ a.btn.button {
 
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
 h1,h2,h3,h4,h5,h6{font-family: 'Source Sans Pro', sans-serif;font-weight:normal;color:#333;}
+
+h3.fronth3 {
+	background: #cc2329;
+	margin-top:  0;
+	color: white;
+	padding: 10px;
+}
  
 nav.vertical ul li{	display:block;}/* vertical menu */
 nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
