@@ -1,8 +1,8 @@
 Changelog
 =========
 
-1.0dev (unreleased)
+0.1dev 
 -------------------
 
-- Package created using zopeskel
-  []
+- Package created 
+- First small steps …
