@@ -16,15 +16,15 @@ long_description = (
 
 setup(name='medialog.mobilethemeOne',
       version=version,
-      description="",
+      description="A diazo theme for zettwerk.mobiletheming",
       long_description=long_description,
       # Get more strings from
       # http://pypi.python.org/pypi?%3Aaction=list_classifiers
       classifiers=[
         "Programming Language :: Python",
         ],
-      keywords='',
-      author='',
+      keywords='mobiletheming plone zetterk',
+      author='Espen Moe-Nilssen',
       author_email='',
       url='http://github.com/espenmn/medialog.mobilethemeOne',
       license='gpl',
