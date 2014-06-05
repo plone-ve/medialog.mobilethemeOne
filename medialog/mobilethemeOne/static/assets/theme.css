@@ -201,6 +201,18 @@ nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
 	
 }
 
+image-right {
+	float: right;
+	margin-left:  10px;
+	margin-bottom: 10px;
+}
+
+image-left {
+	float: left;
+	margin-right:  10px;
+	margin-bottom: 10px;
+}
+
 
 html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
 a{color: #005980; text-decoration: none;}
