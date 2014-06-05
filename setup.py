@@ -1,15 +1,13 @@
 from setuptools import setup, find_packages
 import os
 
-version = '0.1.1'
+version = '0.1.2'
 
 long_description = (
     open('README.txt').read()
     + '\n' +
     'Contributors\n'
     '============\n'
-    + '\n' +
-    open('CHANGES.txt').read()
     + '\n')
 
 setup(name='medialog.mobilethemeOne',
