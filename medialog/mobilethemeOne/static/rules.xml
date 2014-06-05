@@ -10,6 +10,9 @@
       	<theme href="index.html" css:if-content="body.section-front-page" />
       	<!-- define Theme template for some other page -->
       	<theme href="index.html" css:if-content="body.section-amalie-skram" />
+      	<!-- define Theme template for some other view -->
+      	<theme href="index.html" 
+      		css:if-content=".template-collective-easyslider-interfaces-ivieweasyslider" />
         <!-- define Theme template for other-pages-->
         <theme href="theme.html" />
         
