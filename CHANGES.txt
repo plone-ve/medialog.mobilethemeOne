@@ -4,5 +4,16 @@ Changelog
 0.1dev 
 -------------------
 
+- Added more strings classifiers items for this package [macagua]
+
+- Added a simple Diazo theme package (Zip file) [macagua]
+
+- Added improvements about README file [macagua]
+
+- Addded preview theme file and updated Diazo manifest file theme [macagua]
+
+- Added gallery images resources and fixed some urls missing [macagua]
+
 - Package created 
+
 - First small steps …
