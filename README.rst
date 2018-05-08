@@ -83,7 +83,21 @@ Or, you can add it as a dependency on your own product ``setup.py`` file: ::
 Usage
 =====
 
-A theme intended for use with mobile theming control panel (`zettwerk.mobiletheming`_).
+A theme intended for use with mobile theming control panel (``zettwerk.mobiletheming``).
+
+You probably want to use the theme like this:
+
+- install ``zettwerk.mobiletheming`` package
+
+- install ``medialog.mobilethemeOne`` package
+
+- go to the mobile theming control panel and choose which url that should have the mobile theme.
+
+- It is of course possible to enable the theme in diazo theme control panel and use it as a regular theme
+
+
+When you want to edit the theme, you should do this on the file system.
+If you duplicate it TTW, the overridden templates will not be used.
 
 
 Contribute
@@ -101,7 +115,10 @@ The project is licensed under the GPLv2.
 Credits
 -------
 
-- Espen Moe-Nilssen (espen at medialog dot no).
+Author
+^^^^^^
+
+- Espen Moe-Nilssen (espen at medialog dot no), Grieg Medialog AS.
 
 .. _`Grieg Medialog AS`: http://www.medialog.no/
 .. _`plone.app.theming`: https://pypi.org/project/plone.app.theming/
