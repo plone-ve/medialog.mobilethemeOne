@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.1dev 
+0.1dev (unreleased)
 -------------------
 
 - Added HTML5 validation for HTML files [macagua]
