@@ -10,15 +10,46 @@ Introduction
 `Grieg Medialog AS`_ using the **theming** and **packaging** features available 
 in `plone.app.theming`_ and `zettwerk.mobiletheming`_ packages.
 
+.. figure:: https://github.com/espenmn/medialog.mobilethemeOne/raw/master/medialog/mobilethemeOne/static/preview.png
+  :align: center
+  :width: 55%
+  :alt: medialog.mobilethemeOne Mobile Theme
+
+  ``medialog.mobilethemeOne`` Mobile Theme.
+
 
 Screenshots
 ===========
 
-Layout of the site when viewed in a computer resolution:
+A demo using the ``medialog.mobilethemeOne`` add-on as a reduced view for Mobile device 
+look like the following:
 
-.. figure:: image:: https://github.com/espenmn/medialog.mobilethemeOne/raw/master/medialog/mobilethemeOne/static/preview.png
+.. figure:: https://github.com/espenmn/medialog.mobilethemeOne/raw/master/docs/screenshot_mobile.jpg
+  :align: center
+  :width: 45%
+  :alt: medialog.mobilethemeOne Theme at Mobile device
 
-  medialog.mobilethemeOne Mobile Theme
+  ``medialog.mobilethemeOne`` theme Demo at Mobile device.
+
+A demo using the ``medialog.mobilethemeOne`` add-on as a reduced view for Tablet device 
+look like the following:
+
+.. figure:: https://github.com/espenmn/medialog.mobilethemeOne/raw/master/docs/screenshot_tablet.jpg
+  :align: center
+  :width: 55%
+  :alt: medialog.mobilethemeOne Theme at Tablet device
+
+  ``medialog.mobilethemeOne`` theme Demo at Tablet device.
+
+A demo using the ``medialog.mobilethemeOne`` add-on as a reduced view for Laptop device 
+look like the following:
+
+.. figure:: https://github.com/espenmn/medialog.mobilethemeOne/raw/master/docs/screenshot_laptop.jpg
+  :align: center
+  :width: 75%
+  :alt: medialog.mobilethemeOne Theme at Laptop device
+
+  ``medialog.mobilethemeOne`` theme Demo Laptop device.
 
 
 Features
@@ -48,6 +79,7 @@ If you are an end user, you might enjoy installation via zip file import.
 
 1. Download a `zip file <https://github.com/espenmn/medialog.mobilethemeOne/raw/master/medialog.mobilethemeOne.zip>`_.
 2. Import the theme from the Diazo theme control panel.
+
 
 Enabling the theme
 ^^^^^^^^^^^^^^^^^^
@@ -112,13 +144,23 @@ License
 
 The project is licensed under the GPLv2.
 
+
 Credits
 -------
+
 
 Author
 ^^^^^^
 
 - Espen Moe-Nilssen (espen at medialog dot no), Grieg Medialog AS.
+
+
+Amazing contributions
+^^^^^^^^^^^^^^^^^^^^^
+
+- Leonardo J. Caballero G. aka macagua (leonardocaballero at gmail dot com).
+
+You can find an updated list of package contributors on https://github.com/espenmn/medialog.mobilethemeOne/contributors
 
 .. _`Grieg Medialog AS`: http://www.medialog.no/
 .. _`plone.app.theming`: https://pypi.org/project/plone.app.theming/
