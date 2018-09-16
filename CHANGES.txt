@@ -4,6 +4,8 @@ Changelog
 0.1dev (unreleased)
 -------------------
 
+- Updated the simple Diazo theme package (Zip file) with the preview file [macagua]
+
 - Added HTML5 validation for HTML files [macagua]
 
 - Added more strings classifiers items for this package [macagua]
